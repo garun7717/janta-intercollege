@@ -33,10 +33,12 @@
     align-items: center;
 }
 body {
-    background-color: rgba(107, 85, 85, 0.85);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background: rgba(0, 0, 0, 0.8) url('../bg/bgschool2');
+    background-size: cover;
+    background-blend-mode: darken;
 }
 
 h2 {
@@ -54,17 +56,17 @@ h2 {
     left: 62%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(RAJYAPAL.jpg);
+    background-image: url(GATARIMAINBUIL2.jpeg);
     background-size: 100% 100%;
     border-radius: 20%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 20s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(RAJYAPAL.jpg);}
-    25%{background-image: url(mainbuilding.jpg);}
-    50%{background-image: url(BAGDISTRIBUTION.jpg);}
-    85%{background-image: url(vigyanpradarshini.jpg);}
+    0%{background-image: url(GAYATRIMAINBUILDBEAUTIFUL1.jpeg);}
+    25%{background-image: url(school2.jpg);}
+    50%{background-image: url(GATARIMAINBUILDINGBEAUTIFUL3.jpeg);}
+    85%{background-image: url(yogastudent3.jpg);}
 }
 
 
@@ -208,7 +210,7 @@ h2 {
     border-radius: 50%;
     align-items: center;
     box-shadow: #7c7a7a;
-    background-image: url(.jpg);
+   background-image: url(janasenimanager.jpeg);
     background-size: 100% 100%;
     box-shadow: 0.01rem 0.005rem 0.01rem 0.02rem rgb(231, 170, 170);
 }
