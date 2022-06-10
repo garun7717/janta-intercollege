@@ -42,7 +42,7 @@ body {
 }
 
 h2 {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     line-height: 1.4;
     letter-spacing: 0rem;
     text-align: center;
@@ -64,9 +64,9 @@ h2 {
 }
 @keyframes slider {
     0%{background-image: url(janmaingate.png);}
-    25%{background-image: url(school2.jpg);}
+    25%{background-image: url(janplay.png);}
     50%{background-image: url(janbeautiful.png);}
-    85%{background-image: url(yogastudent3.jpg);}
+    85%{background-image: url(jandisplay.png);}
 }
 
 
